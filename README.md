@@ -1,0 +1,1 @@
+# 3_Web-Design-CH2_Git-Conflicts-Resolution-CH1
